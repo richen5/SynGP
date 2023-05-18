@@ -7,7 +7,7 @@ import utils.CommonMethods;
 
 import java.util.List;
 
-public class DashboardPage extends CommonMethods {
+public class d_DashboardPage extends CommonMethods {
 
     @FindBy(xpath ="//*[@class='menu']/ul/li")
     public List<WebElement> dashboardTabs;
@@ -15,7 +15,7 @@ public class DashboardPage extends CommonMethods {
     @FindBy(id="welcome")
     public WebElement welcomeMessage;
 
-    public DashboardPage(){
+    public d_DashboardPage(){
         PageFactory.initElements(driver, this);
     }
 

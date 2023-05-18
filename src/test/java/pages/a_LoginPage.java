@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.CommonMethods;
 
-public class LoginPage extends CommonMethods {
+public class a_LoginPage extends CommonMethods {
 
     // object repository
 
@@ -18,7 +18,7 @@ public class LoginPage extends CommonMethods {
     @FindBy (id="btnLogin")
     public WebElement loginBtn;
 
-    public LoginPage(){
+    public a_LoginPage(){
         PageFactory.initElements(driver, this);
     }
 

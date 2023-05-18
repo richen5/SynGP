@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import utils.CommonMethods;
 
 
-public class AddEmployeePage extends CommonMethods {
+public class c_AddEmployeePage extends CommonMethods {
 
     @FindBy(id="firstName")
     public WebElement firstNameField;
@@ -38,7 +38,7 @@ public class AddEmployeePage extends CommonMethods {
     @FindBy(id="re_password")
     public WebElement confirmPassword;
 
-    public AddEmployeePage(){
+    public c_AddEmployeePage(){
         PageFactory.initElements(driver, this);
     }
 

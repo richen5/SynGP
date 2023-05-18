@@ -15,7 +15,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-public class AddEmployeeSteps extends CommonMethods {
+public class c_AddEmployeeSteps extends CommonMethods {
 
     @When("user clicks on PIM option")
     public void user_clicks_on_pim_option() {

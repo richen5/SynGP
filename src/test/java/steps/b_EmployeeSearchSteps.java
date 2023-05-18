@@ -3,14 +3,11 @@ package steps;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import pages.LoginPage;
 import utilis.ConfigReader;
 import utils.CommonMethods;
 
 
-public class EmployeeSearchSteps extends CommonMethods {
+public class b_EmployeeSearchSteps extends CommonMethods {
 
     @Given("user is navigated to HRMS application")
     public void user_is_navigated_to_hrms_application() {

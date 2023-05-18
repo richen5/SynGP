@@ -1,16 +1,14 @@
 package steps;
 
-import com.fasterxml.jackson.databind.ser.impl.StringArraySerializer;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
-import pages.DashboardPage;
 import utils.CommonMethods;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class DashboardSteps extends CommonMethods {
+public class d_DashboardSteps extends CommonMethods {
 
     @Then("user verifies all the dashboard tabs")
     public void user_verifies_all_the_dashboard_tabs(io.cucumber.datatable.DataTable dataTable) {
@@ -20,7 +18,7 @@ public class DashboardSteps extends CommonMethods {
 
         List<String> actualTabs = new ArrayList<>();
 
-        for (WebElement ele:dashboardPage.dashboardTabs
+        for (WebElement ele: dDashboardPage.dashboardTabs
         ) {
             actualTabs.add(ele.getText());
         }
