@@ -1,22 +1,22 @@
 package steps;
 
-import pages.c_AddEmployeePage;
-import pages.d_DashboardPage;
-import pages.b_EmployeeSearchPage;
-import pages.a_LoginPage;
+import pages.*;
 
 public class PageInitializers {
 
     public static a_LoginPage login;
     public static b_EmployeeSearchPage employeeSearchPage;
     public static c_AddEmployeePage addEmployeePage;
-    public static d_DashboardPage dDashboardPage;
+    public static d_DashboardPage dashboardPage;
+
+    public static e_AddLanguagePage addLanguagePage;
 
     public static void initializePageObjects(){
         login = new a_LoginPage();
         employeeSearchPage = new b_EmployeeSearchPage();
         addEmployeePage = new c_AddEmployeePage();
-        dDashboardPage = new d_DashboardPage();
+        dashboardPage = new d_DashboardPage();
+        addLanguagePage = new e_AddLanguagePage();
 
     }
 

@@ -10,7 +10,7 @@ public class a_LoginSteps extends CommonMethods {
 
     @Then("admin user is successfully logged in")
     public void admin_user_is_successfully_logged_in() {
-        Assert.assertTrue(dDashboardPage.welcomeMessage.isDisplayed());
+        Assert.assertTrue(dashboardPage.welcomeMessage.isDisplayed());
         // System.out.println("test passed");
         // tearDown();
     }

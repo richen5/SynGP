@@ -18,7 +18,7 @@ public class d_DashboardSteps extends CommonMethods {
 
         List<String> actualTabs = new ArrayList<>();
 
-        for (WebElement ele: dDashboardPage.dashboardTabs
+        for (WebElement ele: dashboardPage.dashboardTabs
         ) {
             actualTabs.add(ele.getText());
         }
