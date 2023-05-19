@@ -1,9 +1,12 @@
 package steps;
 
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert;
 import utils.CommonMethods;
+
+import java.util.List;
+import java.util.Map;
 
 public class e_AddLanguageSteps extends CommonMethods {
 
@@ -29,7 +32,7 @@ public class e_AddLanguageSteps extends CommonMethods {
 
     @When("user enters languageName")
     public void user_enters_language_name() {
-        sendText(addLanguagePage.languageName,"Floridian");
+        sendText(addLanguagePage.languageNameField, "Kykyev");
     }
 
     @When("user clicks on saveLanguage button")
@@ -39,7 +42,37 @@ public class e_AddLanguageSteps extends CommonMethods {
 
     @Then("language added successfully")
     public void language_added_successfully() {
-        System.out.println("Language Added Successfully!");;
+        System.out.println("Language Added Successfully!");
+        ;
+    }
+
+    @When("user enters {string}")
+    public void user_enters(String languageNameValue) {
+        sendText(addLanguagePage.languageNameField, languageNameValue);
+    }
+
+    @When("user provides {string}")
+    public void user_provides(String languageName) {
+        sendText(addLanguagePage.languageNameField, languageName);
+    }
+
+    @When("user provides multiple languages data and verify they are added")
+    public void user_provides_multiple_languages_data_and_verify_they_are_added(DataTable dataTable) throws InterruptedException {
+        List<Map<String,String>> languageList = dataTable.asMaps();
+
+        for (Map<String, String> language : languageList) {
+            System.out.println(language);
+            String languageNameValue = language.get("languageName");
+            System.out.println(languageNameValue + " ");
+
+            sendText(addLanguagePage.languageNameField, languageNameValue);
+
+            click(addLanguagePage.btnSave);
+            Thread.sleep(2000);
+            click(addLanguagePage.addLanguageButton);
+        }
 
     }
 }
+
+

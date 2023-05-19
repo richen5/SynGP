@@ -21,10 +21,16 @@ public class e_AddLanguagePage extends CommonMethods {
     public WebElement addLanguageButton;
 
     @FindBy (id = "language_name")
-    public WebElement languageName;
+    public WebElement languageNameField;
 
     @FindBy (id = "btnSave")
     public WebElement btnSave;
+
+    @FindBy (xpath = "//*[@id=\"recordsListTable\"]/tbody/tr[1]/td[2]/a")
+    public WebElement languageNameSearch;
+
+    @FindBy (id = "btnDel")
+    public WebElement btnDelete;
 
     public e_AddLanguagePage(){
         PageFactory.initElements(driver,this);

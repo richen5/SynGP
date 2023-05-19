@@ -59,7 +59,7 @@ public class c_AddEmployeeSteps extends CommonMethods {
     }
 
     @When("user provides multiple employee data and verify they are added")
-//    Remove io.cucumber.datatable.Datatable from: (io.cucumber.datatable.DataTable dataTable) and print&find Datatable
+//    Remove io.cucumber.datatable. from: (io.cucumber.datatable.DataTable dataTable) and print&find Datatable
     public void user_provides_multiple_employee_data_and_verify_they_are_added(DataTable dataTable) throws InterruptedException {
         List<Map<String, String>> employeeNames = dataTable.asMaps();
 
