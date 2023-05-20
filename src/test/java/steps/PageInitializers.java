@@ -10,6 +10,7 @@ public class PageInitializers {
     public static d_DashboardPage dashboardPage;
 
     public static e_AddLanguagePage addLanguagePage;
+    public static f_GonkiPage gonkiPage;
 
     public static void initializePageObjects(){
         login = new a_LoginPage();
@@ -17,6 +18,7 @@ public class PageInitializers {
         addEmployeePage = new c_AddEmployeePage();
         dashboardPage = new d_DashboardPage();
         addLanguagePage = new e_AddLanguagePage();
+        gonkiPage = new f_GonkiPage();
 
     }
 
