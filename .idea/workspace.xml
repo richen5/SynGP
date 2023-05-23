@@ -6,8 +6,85 @@
   <component name="ChangeListManager">
     <list default="true" id="737d4461-2ba5-4e62-8187-4b7e954561fc" name="Changes" comment="All e_addLanguage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/ 2023-05-18-20-58-42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/ 2023-05-18-21-00-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/ 2023-05-18-21-02-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/ 2023-05-18-21-04-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/ 2023-05-18-21-13-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/Adding multiple languages using data table 2023-05-19-13-19-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/Adding multiple languages using data table 2023-05-19-13-21-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/bot starting the game and writing text on website 2023-05-19-19-06-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/bot starting the game and writing text on website 2023-05-19-19-12-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/bot starting the game and writing text on website 2023-05-19-19-13-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/bot starting the game and writing text on website 2023-05-19-19-15-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/bot starting the game and writing text on website 2023-05-19-19-17-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-07-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-09-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-10-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-11-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-13-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-15-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-16-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-17-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-18-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-21-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-22-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-26-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-28-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-30-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-35-33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-38-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-39-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/guest writing text on website 2023-05-19-17-41-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-19-20-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-19-21-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-19-45-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-19-51-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-22-12-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/failed/starting the game and writing text on website 2023-05-19-22-16-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/ 2023-05-18-21-31-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/ 2023-05-18-22-02-47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/ 2023-05-18-22-16-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from data table 2023-05-19-11-54-55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from data table 2023-05-19-12-04-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from feature file 2023-05-19-10-26-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from feature file 2023-05-19-10-26-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from feature file 2023-05-19-10-26-23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages from feature file 2023-05-19-10-26-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-12-39-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-12-58-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-13-02-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-14-00-39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-14-12-46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-14-18-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding multiple languages using data table 2023-05-19-15-47-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-10-06-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-10-16-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-12-03-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-14-18-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-15-38-58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from feature file 2023-05-19-15-46-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from steps file 2023-05-19-10-01-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from steps file 2023-05-19-12-03-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from steps file 2023-05-19-14-17-51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Adding one language from steps file 2023-05-19-15-46-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Admin login 2023-05-18-19-32-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Admin login 2023-05-18-19-45-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/ESS login 2023-05-18-19-45-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Invalid login 2023-05-18-19-45-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/Verify dashboard tabs 2023-05-18-19-49-27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/guest writing text on website 2023-05-19-17-24-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/guest writing text on website 2023-05-19-17-42-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/starting the game and writing text on website 2023-05-19-19-25-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/starting the game and writing text on website 2023-05-19-19-27-25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/starting the game and writing text on website 2023-05-19-19-30-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/starting the game and writing text on website 2023-05-19-19-34-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/passed/starting the game and writing text on website 2023-05-19-19-38-50.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runners/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/PageInitializers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/PageInitializers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/b_EmployeeSearchSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/b_EmployeeSearchSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +120,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: starting the game and writing text on website">
+  <component name="RunManager" selected="Cucumber Java.Scenario: create and sent email by myself">
     <configuration name="Feature: f_Gonki" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/f_Gonki.feature" />
@@ -63,15 +140,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Adding one language from feature file" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: g_Email" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/e_AddLanguage.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/g_Email.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucFrameRichen" />
-      <option name="NAME_FILTER" value="^Adding one language from feature file$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Adding one language from feature file$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Adding one language from feature file" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: g_Email" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -83,15 +159,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: bot starting the game and writing text on website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: create and sent email by myself" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/f_Gonki.feature" />
-      <option name="GLUE" value="steps" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/g_Email.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucFrameRichen" />
-      <option name="NAME_FILTER" value="^bot starting the game and writing text on website$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^bot starting the game and writing text on website$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: bot starting the game and writing text on website" />
+      <option name="NAME_FILTER" value="^create and sent email by myself$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^create and sent email by myself$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: create and sent email by myself" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -103,15 +178,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: guest writing text on website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: exit to start page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/f_Gonki.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/g_Email.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucFrameRichen" />
-      <option name="NAME_FILTER" value="^guest writing text on website$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^guest writing text on website$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: guest writing text on website" />
+      <option name="NAME_FILTER" value="^exit to start page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^exit to start page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: exit to start page" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -123,15 +198,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: starting the game and writing text on website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: login on website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/f_Gonki.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/g_Email.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucFrameRichen" />
-      <option name="NAME_FILTER" value="^starting the game and writing text on website$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^starting the game and writing text on website$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: starting the game and writing text on website" />
+      <option name="NAME_FILTER" value="^login on website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^login on website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: login on website" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: starting the game and writing text on website" />
-        <item itemvalue="Cucumber Java.Scenario: bot starting the game and writing text on website" />
+        <item itemvalue="Cucumber Java.Scenario: create and sent email by myself" />
+        <item itemvalue="Cucumber Java.Scenario: exit to start page" />
+        <item itemvalue="Cucumber Java.Scenario: login on website" />
         <item itemvalue="Cucumber Java.Feature: f_Gonki" />
-        <item itemvalue="Cucumber Java.Scenario: guest writing text on website" />
-        <item itemvalue="Cucumber Java.Scenario: Adding one language from feature file" />
+        <item itemvalue="Cucumber Java.Feature: g_Email" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684525700421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All e_addLanguage">
+      <created>1684605104645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684605104645</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

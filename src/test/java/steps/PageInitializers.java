@@ -11,6 +11,7 @@ public class PageInitializers {
 
     public static e_AddLanguagePage addLanguagePage;
     public static f_GonkiPage gonkiPage;
+    public static g_EmailPage emailPage;
 
     public static void initializePageObjects(){
         login = new a_LoginPage();
@@ -19,6 +20,7 @@ public class PageInitializers {
         dashboardPage = new d_DashboardPage();
         addLanguagePage = new e_AddLanguagePage();
         gonkiPage = new f_GonkiPage();
+        emailPage = new g_EmailPage();
 
     }
 

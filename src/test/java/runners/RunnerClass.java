@@ -11,11 +11,11 @@ import org.junit.runner.RunWith;
 
         glue = "steps",
 
-        dryRun = true,
+        dryRun = false,
 
         monochrome = true,
 
-        tags = "@gonki",
+        tags = "@email",
 
         //html report will  be generated under target folder
         plugin = {"html:target/cucumber.html", "pretty", "json:target/cucumber.json",

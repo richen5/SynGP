@@ -21,8 +21,8 @@ public class CommonMethods extends PageInitializers {
     public static WebDriver driver;
 
     public void openBrowserAndLauchApplication(){
-        utilis.ConfigReader.readProperties(Constants.CONFIGURATION_FILEPATH);
-        switch (utilis.ConfigReader.getPropertyValue("browser")){
+        utils.ConfigReader.readProperties(Constants.CONFIGURATION_FILEPATH);
+        switch (utils.ConfigReader.getPropertyValue("browser")){
             case "chrome":
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
@@ -34,7 +34,7 @@ public class CommonMethods extends PageInitializers {
             default:
                 throw new RuntimeException("Invalid browser name");
         }
-        driver.get(utilis.ConfigReader.getPropertyValue("url"));
+        driver.get(utils.ConfigReader.getPropertyValue("url"));
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Constants.IMPLICIT_WAIT, TimeUnit.SECONDS);
         initializePageObjects();       //must be in first method!!
@@ -79,7 +79,7 @@ public class CommonMethods extends PageInitializers {
 
         try {
             FileUtils.copyFile(sourceFile, new File(Constants.SCREENSHOT_FILEPATH + fileName
-                    + " " + getTimeStamp("yyyy-MM-dd-HH-mm-ss")+".png"));
+                    + " " + getTimeStamp("yyyy-MM-dd_HH-mm-ss")+".png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
